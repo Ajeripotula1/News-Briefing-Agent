@@ -13,7 +13,7 @@ In the blog, I walk through how I used Amazon Q Developer CLI and Strands MCP Se
 
 This repo contains the **resulting code** that was generated based on that setup.
 
-The full configuration details and prompt engineering process are explained in the blog.t.
+The full configuration details and prompt engineering process are explained in the blog.
 
 The purpose is to demonstrate how **AI-powered development workflows** can generate useful, working software through tool configuration and prompt design.
 
