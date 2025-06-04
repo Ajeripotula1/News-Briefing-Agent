@@ -2,6 +2,23 @@
 
 A Strands Agent that acts as a daily news briefing assistant. This agent fetches top news headlines from NewsAPI.org based on a user-selected category, summarizes each article using an LLM, and displays the summaries in a clean and readable format.
 
+---
+
+## 📝 Companion to the Blog Post
+
+This repository is a **companion project** to my blog post:  
+👉 **[Building AI Agents with Amazon Q CLI and Strands MCP Server]([https://your-blog-link.com](https://community.aws/content/2xxqDr0U04YFb0LdBu0dEPWRxR4/building-ai-agents-with-amazon-q-cli-and-strands-mcp-server))**
+
+In the blog, I walk through how I used Amazon Q Developer CLI and Strands MCP Server to configure and prompt an AI agent to generate this application.  
+
+This repo contains the **resulting code** that was generated based on that setup.
+
+The full configuration details and prompt engineering process are explained in the blog.t.
+
+The purpose is to demonstrate how **AI-powered development workflows** can generate useful, working software through tool configuration and prompt design.
+
+---
+
 ## Features
 
 - Fetch top news headlines from NewsAPI.org by category
