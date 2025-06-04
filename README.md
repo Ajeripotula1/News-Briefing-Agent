@@ -7,7 +7,7 @@ A Strands Agent that acts as a daily news briefing assistant. This agent fetches
 ## 📝 Companion to the Blog Post
 
 This repository is a **companion project** to my blog post:  
-👉 **[Building AI Agents with Amazon Q CLI and Strands MCP Server]([https://your-blog-link.com](https://community.aws/content/2xxqDr0U04YFb0LdBu0dEPWRxR4/building-ai-agents-with-amazon-q-cli-and-strands-mcp-server))**
+👉 **[Building AI Agents with Amazon Q CLI and Strands MCP Server]([https://your-blog-link.com])**
 
 In the blog, I walk through how I used Amazon Q Developer CLI and Strands MCP Server to configure and prompt an AI agent to generate this application.  
 
